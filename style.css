@@ -1,0 +1,26 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+div.container {
+    width: 50%;
+    max-width: 350px;
+    margin: 50 auto; 
+  }
+  img {
+    width: 100%; 
+    height: auto; 
+  }
+   #block2 {
+    position: absolute; 
+    left: 360px; 
+    top: 50px; 
+    width: 325px; 
+    padding: 100px; 
+    background: #f0f0f0; 
+   }
+   img {
+    width: 100%;
+    height: auto;
+  }
+
+   
